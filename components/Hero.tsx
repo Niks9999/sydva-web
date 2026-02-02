@@ -1,7 +1,7 @@
 export default function Hero() {
   return (
     <section className="px-6 py-32 text-center bg-gradient-to-b from-blue-50 to-white">
-      <h1 className="text-5xl font-bold tracking-tight">SY-DVA</h1>
+      <h1 className="text-5xl font-bold tracking-tight">SYDVA</h1>
 
       <p className="mt-4 text-xl text-gray-600">
         Pametno upravljanje HVAC in energetskih sistemov

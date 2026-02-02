@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "SY-DVA | Pametno upravljanje sistemov",
+  title: "SYDVA | Pametno upravljanje sistemov",
   description:
     "Pametno upravljanje HVAC, toplotnih črpalk in energetskih sistemov.",
 };
